@@ -1,7 +1,5 @@
 /* main.cpp
  *
- * Author: Heidi Paananen
- *
  * - Game logic is found in game.h/game.cpp
  * - UI is found in ui.h/ui.cpp
  * */
